@@ -1,3 +1,0 @@
-import NetworkUtil
-
-NetworkUtil.ShutDownLab()
